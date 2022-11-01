@@ -23,4 +23,4 @@ Here "Orator" is used as the official Orator bot in every clusters exists.
 
 By using Orator, you agree to the above terms of service. If you have issues, feel free to contact us in our Support Server.
 
-Team Orator.
+Team Orator!
