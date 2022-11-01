@@ -21,7 +21,7 @@ Things we consider:
 <li>-Rishhi Kubba (RK) https://github.com/RishiKubba</li>
 <li>-Arijit https://github.com/ArijitTheDev</li>
 <li>-RakunaM (RKN) https://github.com/orgs/Orator-Bot/people/RakunaM</li>
-<li>-Nazish Ahmed (Frezz1ck) https://github.com/nazish-16</li>
+<li>-Nazish Ahmed (Frezz1ck-- Manager and Web-developer) https://github.com/nazish-16</li>
 
 ### Note:
 Here "WE" is used as the Official Developers of the *Orator Team*. Official Development Team of Discord Developer Portal, and the users having Developer Role in the Support server.
