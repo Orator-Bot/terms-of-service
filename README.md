@@ -16,6 +16,13 @@ Things we consider:
 - If your server is found liable, or any user is found liable of doing something illegal, an issue notice will be sent to the Server Owner or an Admin about that issue. And the bot will be removed from the server as a warning. Though clearing data about that server depends on us.
 - If we are asked by Discord for taking any steps, we will do it without giving any warnings. 
 
+#Developers:
+
+-Rishhi Kubba (RK) https://github.com/RishiKubba
+-Arijit https://github.com/ArijitTheDev
+-RakunaM (RKN) https://github.com/orgs/Orator-Bot/people/RakunaM
+-Nazish Ahmed (Frezz1ck) https://github.com/nazish-16
+
 ### Note:
 Here "WE" is used as the Official Developers of the *Orator Team*. Official Development Team of Discord Developer Portal, and the users having Developer Role in the Support server.
 Here "YOU" is used as the user who is using our Bot.
