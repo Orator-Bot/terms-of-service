@@ -16,7 +16,7 @@ Things we consider:
 - If your server is found liable, or any user is found liable of doing something illegal, an issue notice will be sent to the Server Owner or an Admin about that issue. And the bot will be removed from the server as a warning. Though clearing data about that server depends on us.
 - If we are asked by Discord for taking any steps, we will do it without giving any warnings. 
 
-<h1>Developers:</h1>
+<h3>Developers:</h3>
 
 <li>-Rishhi Kubba (RK) https://github.com/RishiKubba</li>
 <li>-Arijit https://github.com/ArijitTheDev</li>
