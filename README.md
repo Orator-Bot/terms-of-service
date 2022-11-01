@@ -1,4 +1,4 @@
-# Orator Terms of Service
+# Orator Terms And Conditions
 The Terms of Service liable while using Orator Bot are stated below:
 
 ### Personal Data
@@ -15,6 +15,22 @@ Things we consider:
 - Servers Breaking Discord's ToS can also get banned. Though every cases aren't same and we may consider some of them.
 - If your server is found liable, or any user is found liable of doing something illegal, an issue notice will be sent to the Server Owner or an Admin about that issue. And the bot will be removed from the server as a warning. Though clearing data about that server depends on us.
 - If we are asked by Discord for taking any steps, we will do it without giving any warnings. 
+- 
+## Privacy Policy of Orator Bot
+By using Orator, You agree to these terms:
+
+- We will use your Discord ID, your Server's ID and your Server's Channel ID for our systems stated below.
+
+__Systems:__
+    - Premium System: Discord ID, Discord Server ID.
+    - Blacklist Database: Discord ID, Discord Server ID.
+    - Setup Language System: Discord Server ID
+    - Channel Only System: Discord Server ID, Server's Specific Single Channel ID.
+    - Logs: Discord Server ID, Server's Channel ID.
+
+We won't ever ask you for personal details without stating the use of that detail.
+You are free to ask for data removal as a owner of your Discord Account or owner of that Particular Server.
+That includes removal of data related to your server and your account except Blacklist Data.
 
 <h3>Developers:</h3>
 
