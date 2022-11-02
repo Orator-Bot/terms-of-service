@@ -43,10 +43,10 @@ That includes removal of data related to your server and your account except Bla
 <li>-Nazish Ahmed (Frezz1ck) https://github.com/nazish-16</li>
 
 ### Note:
-Here "WE" is used as the Official Developers of the *Orator Team*. Official Development Team of Discord Developer Portal, and the users having Developer Role in the Support server.
-Here "YOU" is used as the user who is using our Bot.
-Here "Orator" is used as the official Orator bot in every clusters exists.
+<li>Here "WE" is used as the Official Developers of the *Orator Team*. Official Development Team of Discord Developer Portal, and the users having Developer Role in the Support server.</li>
+<li>Here "YOU" is used as the user who is using our Bot.</li>
+<li>Here "Orator" is used as the official Orator bot in every clusters exists.</li>
 
-By using Orator, you agree to the above terms of service. If you have issues, feel free to contact us in our Support Server.
+<h4>By using Orator, you agree to the above terms of service. If you have issues, feel free to contact us in our Support Server.<h4>
 
-Team Orator!
+   <h3>Team Orator!</h3>
