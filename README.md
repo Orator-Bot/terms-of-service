@@ -49,4 +49,4 @@ That includes removal of data related to your server and your account except Bla
 
 <h4>By using Orator, you agree to the above terms of service. If you have issues, feel free to contact us in our Support Server.<h4>
 
-   <h3>Team Orator!</h3>
+   <h3>Team Orator.</h3>
