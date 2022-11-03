@@ -37,7 +37,7 @@ That includes removal of data related to your server and your account except Bla
 
 <h3>Developers:</h3>
 
-<li>-Rishhi Kubba (RK) https://github.com/RishiKubba</li>
+<li>-Rishhi Kubba (Owner / RK) https://github.com/RishiKubba</li>
 <li>-Arijit https://github.com/ArijitTheDev</li>
 <li>-RakunaM (RKN) https://github.com/orgs/Orator-Bot/people/RakunaM</li>
 <li>-Nazish Ahmed (Frezz1ck) https://github.com/nazish-16</li>
