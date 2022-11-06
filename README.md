@@ -25,11 +25,11 @@ By using Orator, You agree to these terms:
 - We will use your Discord ID, your Server's ID and your Server's Channel ID for our systems stated below.
 
 __Systems:__
-    - Premium System: Discord ID, Discord Server ID.
-    - Blacklist Database: Discord ID, Discord Server ID.
-    - Setup Language System: Discord Server ID
-    - Channel Only System: Discord Server ID, Server's Specific Single Channel ID.
-    - Logs: Discord Server ID, Server's Channel ID.
+    - Premium System: `Discord ID`, `Discord Server ID`. <br>
+    - Blacklist Database: `Discord ID`, `Discord Server ID`. <br>
+    - Setup Language System: `Discord Server ID` <br>
+    - Channel Only System: `Discord Server ID`, `Server's Specific Single Channel ID`. <br>
+    - Logs: `Discord Server ID`, `Server's Channel ID`. <br>
 
 We won't ever ask you for personal details without stating the use of that detail.
 You are free to ask for data removal as a owner of your Discord Account or owner of that Particular Server.
