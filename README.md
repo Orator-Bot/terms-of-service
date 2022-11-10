@@ -17,7 +17,7 @@ Things we consider:
 - If we are asked by Discord for taking any steps, we will do it without giving any warnings. 
 ## Who has access
 
-Only the owner and the developers of the game have access to your data. Under no circumstance, anyone other than the mentioned above staff will be provided access to it.
+Only the owner and the developers of the bot have access to your data. Under no circumstance, anyone other than the mentioned above staff will be provided access to it.
 
 ## Privacy Policy of Orator Bot
 By using Orator, You agree to these terms:
