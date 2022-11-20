@@ -38,9 +38,9 @@ That includes removal of data related to your server and your account except Bla
 <h3>Developers:</h3>
 
 <li>-Rishhi Kubba (Owner / RK) https://github.com/RishiKubba</li>
-<li>-Arijit https://github.com/ArijitTheDev</li>
-<li>-RakunaM (RKN) https://github.com/RakunaM</li>
-<li>-Nazish Ahmed (Frezz1ck) https://github.com/nazish-16</li>
+<li>-Arijit (Lead Developer) https://github.com/ArijitTheDev</li>
+<li>-RakunaM (RKN / Feature Developer) https://github.com/RakunaM</li>
+<li>-Nazish Ahmed (Frezz1ck / Web Developer) https://github.com/nazish-16</li>
 
 ### Note:
 <li>Here "WE" is used as the Official Developers of the *Orator Team*. Official Development Team of Discord Developer Portal, and the users having Developer Role in the Support server.</li>
