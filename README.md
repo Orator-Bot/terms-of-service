@@ -37,7 +37,7 @@ That includes removal of data related to your server and your account except Bla
 
 <h3>Developers:</h3>
 
-<li>-Rishhi Kubba (Owner / RK) https://github.com/RishiKubba</li>
+<li>-Rishi Kubba (Owner / RK) https://github.com/RishiKubba</li>
 <li>-Arijit (Lead Developer) https://github.com/ArijitTheDev</li>
 <li>-RakunaM (RKN / Feature Developer) https://github.com/RakunaM</li>
 <li>-Frezz1ck (Web Developer) https://github.com/nazish-16</li>
