@@ -35,6 +35,11 @@ We won't ever ask you for personal details without stating the use of that detai
 You are free to ask for data removal as a owner of your Discord Account or owner of that Particular Server.
 That includes removal of data related to your server and your account except Blacklist Data.
 
+### Refund Policy
+
+<li> All orator premium purchases are non-refundable, except as permitted by the staff.
+<li> Orator staff reserves right to accept or deny any cases incase of genuine errors
+
 <h3>Developers:</h3>
 
 <li>-Rishi Kubba (Owner / RK) https://github.com/RishiKubba</li>
