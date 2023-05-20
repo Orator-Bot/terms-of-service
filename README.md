@@ -15,6 +15,7 @@ Things we consider:
 - Servers Breaking Discord's ToS can also get banned. Though every cases aren't same and we may consider some of them.
 - If your server is found liable, or any user is found liable of doing something illegal, an issue notice will be sent to the Server Owner or an Admin about that issue. And the bot will be removed from the server as a warning. Though clearing data about that server depends on us.
 - If we are asked by Discord for taking any steps, we will do it without giving any warnings. 
+- We offer both individual premium bot solutions, tailored to meet your specific needs.
 ## Who has access
 
 Only the owner and the developers of the bot have access to your data. Under no circumstance, anyone other than the mentioned above staff will be provided access to it.
